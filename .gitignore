@@ -1,0 +1,3 @@
+# Ignore Configuration.psd1 but include Configuration.psd1.example
+Configuration.psd1
+!Configuration.psd1.example

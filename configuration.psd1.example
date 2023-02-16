@@ -1,0 +1,5 @@
+@{
+    Url = "https://servicedeskplus.contoso.com"
+    ApiUser = "itsmbot@contoso.com"
+    ApiKey = "ABEH278-0ROU-4Z02-AAM4-AIRIDA006801"
+}
